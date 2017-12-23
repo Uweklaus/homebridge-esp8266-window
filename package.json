@@ -1,6 +1,6 @@
 {
   "name": "homebridge-esp8266-window2",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "ESP8266 window plugin for Homebridge",
   "main": "./lib",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/psled/homebridge-esp8266-window2.git"
+    "url": "git://github.com/uweklaus/homebridge-esp8266-window2.git"
   },
   "engines": {
     "node": ">=0.12.0",
