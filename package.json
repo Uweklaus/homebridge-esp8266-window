@@ -1,7 +1,7 @@
 {
   "name": "homebridge-esp8266-window2",
-  "version": "0.0.8",
-  "description": "ESP8266 window plugin for Homebridge",
+  "version": "0.0.9",
+  "description": "ESP8266 window2 plugin for Homebridge",
   "main": "./lib",
   "keywords": [
     "homebridge-plugin",
