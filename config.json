@@ -13,7 +13,8 @@
       "accessory": "ESP8266Window",
       "name": "Window",
       "hostname": "192.168.1.29",
-      "port": "1337"
+      "port": "1337",
+      "window": "1"  // "0"
     }
   ]
 }

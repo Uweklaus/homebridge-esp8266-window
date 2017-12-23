@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-esp8266-window",
-  "version": "0.0.1",
+  "name": "homebridge-esp8266-window2",
+  "version": "0.0.2",
   "description": "ESP8266 window plugin for Homebridge",
   "main": "./lib",
   "keywords": [
@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/psled/homebridge-esp8266-window.git"
+    "url": "git://github.com/psled/homebridge-esp8266-window2.git"
   },
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.2.5"
   },
-  "author": "Pawel Sledzikowski",
+  "author": "Pawel Sledzikowski/Uwe Klaus",
   "license": "ISC"
 }
